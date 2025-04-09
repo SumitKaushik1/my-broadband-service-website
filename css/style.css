@@ -15,7 +15,7 @@
     box-sizing: border-box;
     outline: none; border:none;
     text-decoration: none;
-    text-transform: capitalize;
+    text-transform: math-auto;
     transition: all .3s ease-out;
 }
 
@@ -370,7 +370,7 @@ section{
 }
 
 .pricing .box-container .box .price{
-    font-size: 4rem;
+    font-size: 3rem;
     font-weight: bolder;
     color: var(--main-color);
 }
@@ -475,7 +475,7 @@ section{
 .contact .icons-container .icons p{
     color:var(--light-color);
     line-height: 1.8;
-    font-size: 1.5rem;
+    font-size: 1.9rem;
 }
 
 .contact .row{
@@ -547,7 +547,7 @@ section{
 
 .footer .box-container .box a{
     display: block;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     padding:1rem 0;
     color:var(--light-color);
 }
